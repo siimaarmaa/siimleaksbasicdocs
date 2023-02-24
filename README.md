@@ -1,6 +1,6 @@
 # Home
 
-![](.gitbook/assets/logo.png)
+<figure><img src=".gitbook/assets/logo.png" alt=""><figcaption></figcaption></figure>
 
 ## Welcome
 
