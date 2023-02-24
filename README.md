@@ -1,5 +1,5 @@
 # Home
 
-![](.gitbook/assets/logo.png)
+<figure><img src=".gitbook/assets/logo.png" alt=""><figcaption></figcaption></figure>
 
-The command-line tool for quick, simple deployment and management of Linux dedicated game servers.
+fdfdfddf
