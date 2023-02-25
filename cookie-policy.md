@@ -1,34 +1,32 @@
 # Cookie Policy
 
-### Cookies Policy of https://docs.2f.ee
+*
 
-This website, https://docs.2f.ee (the "Website"), is operated by Siim Leaks Basic Docs.&#x20;
+#### About this cookie policy
+
+This Cookie Policy explains what cookies are and how we use them, the types of cookies we use i.e, the information we collect using cookies and how that information is used, and how to control the cookie preferences. For further information on how we use, store, and keep your personal data secure, see our Privacy Policy.You can at any time change or withdraw your consent from the Cookie Declaration on our website\
+Learn more about who we are, how you can contact us, and how we process personal data in our Privacy Policy.\
+Your consent applies to the following domains: 2f.ee
 
 #### What are cookies?
 
-Cookies are a small text files that are stored in your web browser that allows Siim Leaks Basic Docs or a third party to recognize you. Cookies can be used to collect, store and share bits of information about your activities across websites, including on Siim Leaks Basic Docs website.
+Cookies are small text files that are used to store small pieces of information. They are stored on your device when the website is loaded on your browser. These cookies help us make the website function properly, make it more secure, provide a better user experience, understand how the website performs and analyze what works and where it needs improvement.
 
-Cookies might be used for the following purposes:
+#### How do we use cookies?
 
-* To enable certain functions
-* To provide analytics
-* To store your preferences
-* To enable ad delivery and behavioral advertising
+Like most online services, our website uses first-party and third-party cookies for several purposes. First-party cookies are mostly necessary for the website to function the right way, and they do not collect any of your personally identifiable data.The third-party cookies used on our website are mainly for understanding how the website performs, how you interact with our website, keeping our services secure, providing advertisements that are relevant to you, and all in all providing you with a better and improved user experience and help speed up your future interactions with our website.
 
-Siim Leaks Basic Docs uses both session cookies and persistent cookies.
+#### What types of cookies do we use?
 
-A session cookie is used to identify a particular visit to our Website. These cookies expire after a short time, or when you close your web browser after using our Website. We use these cookies to identify you during a single browsing session, such as when you log into our Website.
+**Essential:** Some cookies are essential for you to be able to experience the full functionality of our site. They allow us to maintain user sessions and prevent any security threats. They do not collect or store any personal information. For example, these cookies allow you to log in to your account and add products to your basket, and checkout securely. **Statistics:** These cookies store information like the number of visitors to the website, the number of unique visitors, which pages of the website have been visited, the source of the visit, etc. These data help us understand and analyze how well the website performs and where it needs improvement.
 
-A persistent cookie will remain on your devices for a set period of time specified in the cookie. We use these cookies where we need to identify you over a longer period of time. For example, we would use a persistent cookie if you asked that we keep you signed in.
+**Marketing:** Our website displays advertisements. These cookies are used to personalize the advertisements that we show to you so that they are meaningful to you. These cookies also help us keep track of the efficiency of these ad campaigns.\
+The information stored in these cookies may also be used by the third-party ad providers to show you ads on other websites on the browser as well.
 
-#### How do third parties use cookies on the Siim Leaks Basic Docs Website?
+**Functional:** These are the cookies that help certain non-essential functionalities on our website. These functionalities include embedding content like videos or sharing content of the website on social media platforms.
 
-Third party companies like analytics companies and ad networks generally use cookies to collect user information on an anonymous basis. They may use that information to build a profile of your activities on the Siim Leaks Basic Docs Website and other websites that you've visited.
+**Preferences:** These cookies help us store your settings and browsing preferences like language preferences so that you have a better and more efficient experience on future visits to the website.
 
-#### What are your cookies options?
+#### How can I control the cookie preferences?
 
-If you don't like the idea of cookies or certain types of cookies, you can change your browser's settings to delete cookies that have already been set and to not accept new cookies. To learn more about how to do this, visit the help pages of your browser.
-
-Please note, however, that if you delete cookies or do not accept them, you might not be able to use all of the features we offer, you may not be able to store your preferences, and some of our pages might not display properly.
-
-#### Where can I find more information about cookies?
+Should you decide to change your preferences later through your browsing session, you can click on the “Privacy & Cookie Policy” tab on your screen. This will display the consent notice again enabling you to change your preferences or withdraw your consent entirely.In addition to this, different browsers provide different methods to block and delete cookies used by websites. You can change the settings of your browser to block/delete the cookies. To find out more about how to manage and delete cookies, visit [www.allaboutcookies.org](http://www.allaboutcookies.org).
