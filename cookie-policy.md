@@ -2,7 +2,7 @@
 
 ### Cookies Policy of https://docs.2f.ee
 
-This website, https://docs.2f.ee (the "Website"), is operated by Siim Leaks Basic Docs. This Cookies Policy was created by [Cookies Policy Template Generator](https://www.cookiespolicytemplate.com) for https://docs.2f.ee
+This website, https://docs.2f.ee (the "Website"), is operated by Siim Leaks Basic Docs.&#x20;
 
 #### What are cookies?
 
