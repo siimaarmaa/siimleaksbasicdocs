@@ -12,4 +12,3 @@
   * [Report user](snippets/report-user.md)
   * [Report message](snippets/report-message.md)
   * [Ticket](snippets/ticket.md)
-* [Cookie Policy](cookie-policy.md)
