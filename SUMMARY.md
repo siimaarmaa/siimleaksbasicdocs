@@ -2,7 +2,11 @@
 
 * [Home](README.md)
 * [Getting Started](getting-started.md)
-* [Configuration](configuration.md)
+* [Configuration](configuration/README.md)
+  * [Easypanel + Docker](configuration/easypanel-+-docker.md)
+  * [Linux + Docker](configuration/linux-+-docker.md)
+  * [Linode autoscript](configuration/linode-autoscript.md)
+  * [Autoinstall](configuration/autoinstall.md)
 * [Commands](commands.md)
 * [Snippets](snippets/README.md)
   * [Report user](snippets/report-user.md)
