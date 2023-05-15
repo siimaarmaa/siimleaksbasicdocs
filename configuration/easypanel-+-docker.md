@@ -1,4 +1,4 @@
-# Easypanel + Docker
+# Easypanel Schema
 
 Easypanel Schema for using Siim Leaks Basic Discord bot
 
