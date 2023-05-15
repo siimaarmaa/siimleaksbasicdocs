@@ -3,7 +3,7 @@
 * [Home](README.md)
 * [Getting Started](getting-started.md)
 * [Configuration](configuration/README.md)
-  * [Easypanel + Docker](configuration/easypanel-+-docker.md)
+  * [Easypanel Schema](configuration/easypanel-schema.md)
   * [Linux + Docker](configuration/linux-+-docker.md)
   * [Linode autoscript](configuration/linode-autoscript.md)
   * [Autoinstall](configuration/autoinstall.md)
