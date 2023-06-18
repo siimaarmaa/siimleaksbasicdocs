@@ -6,4 +6,4 @@ Once the installation is complete a working server will be available. Use the va
 
 Read through this documentation to ensure you understand how to configure bot.
 
-The [configure](configuration/) section will help you understand how to configure Siim Leaks Basic Discord bot
+The configure section will help you understand how to configure Siim Leaks Basic Discord bot
